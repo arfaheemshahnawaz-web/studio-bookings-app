@@ -144,6 +144,8 @@ src/
 
 ## Environment Variables
 
+Create a `.env` file in the project root using `.env.example` as a reference:
+
 | Variable            | Description                                             |
 | ------------------- | ------------------------------------------------------- |
 | `VITE_CALENDLY_URL` | Calendly scheduling URL used for the embedded scheduler |
@@ -160,4 +162,4 @@ src/
 
 ## Author
 
-Faheem Shah Nawaz
+A R Faheem Shah Nawaz
