@@ -1,0 +1,27 @@
+// src/data/bookings.js
+
+const bookings = [
+  {
+    id: 1,
+    clientName: "Mia Chen",
+    sessionType: "Podcast Recording",
+    date: "2026-07-02",
+    status: "confirmed",
+  },
+  {
+    id: 2,
+    clientName: "Jordan Reyes",
+    sessionType: "Photography",
+    date: "2026-07-04",
+    status: "pending",
+  },
+  {
+    id: 3,
+    clientName: "Aisha Patel",
+    sessionType: "Video Shoot",
+    date: "2026-06-28",
+    status: "cancelled",
+  },
+];
+
+export default bookings;

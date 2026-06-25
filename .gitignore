@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# env
+.env
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# vite
+.vite/
+
+# eslint cache
+.eslintcache
