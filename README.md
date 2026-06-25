@@ -12,7 +12,6 @@ A modern studio booking management dashboard built with React and Vite. The appl
 * Search bookings by client name
 * Filter bookings by status
 * Sort bookings by date (Newest First / Oldest First)
-* Booking statistics dashboard
 
 ### Add Booking
 
@@ -27,7 +26,7 @@ A modern studio booking management dashboard built with React and Vite. The appl
 * Pending
 * Cancelled
 
-### Calendly Integration (Bonus)
+### Calendly Integration
 
 * Schedule real meetings using Calendly
 * Embedded scheduling experience within the dashboard
